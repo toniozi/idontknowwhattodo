@@ -1,0 +1,52 @@
+body{
+  background-color: #FFF8EB;
+}
+
+nav{
+  background-color: #FFF1D6;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 3em;
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.links{
+    font-family: 'Poppins', sans-serif;
+}
+
+ .pages{
+   color: #F5F500;
+ }
+
+ .pages:hover{
+   color: #CCCC00;
+   text-decoration: none;
+ }
+
+button{
+  background-color: #800080;
+  color: white;
+
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #660066;
+
+  width: 70px;
+  height: 40px;
+
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8em;
+
+  transition-duration: 0.2s;
+}
+
+button:hover{
+  background-color: #FFF8EB;
+  color : black;
+  border-color: #800080
+}
